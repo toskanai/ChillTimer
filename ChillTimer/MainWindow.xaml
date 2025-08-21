@@ -55,7 +55,7 @@
                        Text="25:00"
                        FontSize="60"
                        FontWeight="Bold"
-                       FontFamily="Consolas"
+                       FontFamily="Gluten"
                        Foreground="{StaticResource BrushText}"
                        TextAlignment="Center"/>
                         <TextBlock x:Name="StatusText"
@@ -63,7 +63,8 @@
                        Margin="0,6,0,0"
                        FontSize="14"
                        Foreground="{StaticResource BrushTextDim}"
-                       TextAlignment="Center"/>
+                       TextAlignment="Center"
+                       FontFamily="Gluten"/>
                     </StackPanel>
 
                     <StackPanel Grid.Row="1"
