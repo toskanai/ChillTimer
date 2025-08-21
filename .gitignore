@@ -1,2 +1,24 @@
-*.agdai
-MAlonzo/**
+# Build
+bin/
+obj/
+[Bb]uild/
+[Ll]og/
+*.cache
+*.log
+
+# VS/JetBrains
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Publish/Artifacts
+publish/
+artifacts/
+
+# OS
+.DS_Store
+Thumbs.db
