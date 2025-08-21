@@ -13,6 +13,7 @@
     <None Remove="Assets\efeu.png" />
     <None Remove="Assets\girl.png" />
     <None Remove="Assets\lights.png" />
+    <None Remove="Assets\Minimize.png" />
     <None Remove="Assets\Pause.png" />
     <None Remove="Assets\plant.png" />
     <None Remove="Assets\Play.png" />
@@ -33,6 +34,9 @@
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Assets\lights.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Assets\Minimize.png">
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Resource>
     <Resource Include="Assets\Pause.png">
