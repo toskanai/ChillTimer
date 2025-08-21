@@ -13,7 +13,7 @@ Perfekt zum entspannten Fokussieren bei Studium, Arbeit oder Kreativität.
 - 🖼 Anpassbares Icon & eigene Assets
 
 ## Screenshots
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/YFZW3fH8/image.png" alt="image" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/hRs7LztJ/image.png" alt="image" border="0"></a>
 
 ## Build
 - Projekt in **Visual Studio** öffnen
